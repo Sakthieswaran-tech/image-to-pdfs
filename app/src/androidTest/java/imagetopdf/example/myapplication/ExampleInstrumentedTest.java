@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package imagetopdf.example.myapplication;
 
 import android.content.Context;
 
